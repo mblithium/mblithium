@@ -1,20 +1,12 @@
 ### Hi there 👋
 Welcome to my github profile!
 
+<img src='https://github.com/mblithium.png' alt='my github image' height='200'>
+
 - 📚 I’m currently learning HTML, CSS, JAVASCRIPT, PYTHON, NODE JS and a few more things...
 - 🐧 I like to test new open technologies!
 
-<!--
-**mblithium/mblithium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, PYTHON, SQL, NODE and REACT
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Network
+[Linkedin](https://www.linkedin.com/in/mb-matheus-bastos/) |
+[Replit](https://replit.com/@MatheusBastos) |
+[Gitlab](https://gitlab.com/mblithium)
