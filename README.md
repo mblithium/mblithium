@@ -1,7 +1,7 @@
 ### Hi there 👋
 Welcome to my github profile!
 
-<img src='https://github.com/mblithium.png' alt='my github image' height='200'>
+<!-- <img src='https://github.com/mblithium.png' alt='my github image' height='200'> -->
 
 - 📚 I’m currently learning HTML, CSS, JAVASCRIPT, PYTHON, NODE JS and a few more things...
 - 🐧 I like to test new open technologies!
