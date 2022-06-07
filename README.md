@@ -12,8 +12,9 @@ Welcome to my github profile!
 [Codepen](https://codepen.io/mblither) |
 [Gitlab](https://gitlab.com/mblithium)
 
-### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mblithium&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mblithium&theme=dracula&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mblithium&theme=dracula)  
+<details>
+<summary><h3>Open Stats</h3></summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mblithium&theme=dracula)](https://github.com/anuraghazra/github-readme-stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mblithium&theme=dracula&show_icons=true"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=mblithium&theme=dracula"/>
+</details>
