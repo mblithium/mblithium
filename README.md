@@ -3,6 +3,11 @@ Welcome to my github profile!
 
 <!-- <img src='https://github.com/mblithium.png' alt='my github image' height='200'> -->
 
+<div align="center">
+<img align="center" src="https://octodex.github.com/images/labtocat.png" width="150px" height="150px">
+</div>
+<hr>
+
 - 📚 I’m currently learning HTML, CSS, JAVASCRIPT, PYTHON, NODE JS and a few more things...
 - 🐧 I like to test new open technologies!
 
