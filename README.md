@@ -7,7 +7,7 @@ Bem-vindo ao meu perfil do Github!
 <!-- <img src='https://github.com/mblithium.png' alt='my github image' height='200'> -->
 
 <div align="center">
-<img align="center" src="https://github.com/mblithium/mblithium/blob/main/img/banner.png?raw=true" width="100%" height="300px" alt="Banner de perfil. By Digital Ocean.">
+<img align="center" src="https://github.com/mblithium/mblithium/blob/main/img/banner.png?raw=true" width="100%" alt="Banner de perfil. By Digital Ocean.">
 </div>
 <hr>
 
