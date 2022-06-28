@@ -35,5 +35,5 @@ Bem-vindo ao meu perfil do Github!
 <details>
 <summary><h3>Open Stats</h3></summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mblithium&theme=dracula&show_icons=true&layout=compact" style="max-width: 100%; height: 200px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=mblithium&theme=dracula&show_icons=true&layout=compact" style="min-width: 100%; height: 200px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mblithium&theme=dracula&show_icons=true&layout=compact" style="max-width: 100%; height: 200px"/>
 </details>
