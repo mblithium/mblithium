@@ -4,10 +4,14 @@ Welcome to my github profile!
 
 Bem-vindo ao meu perfil do Github!
 
-<!-- <img src='https://github.com/mblithium.png' alt='my github image' height='200'> -->
+<!-- 
+Huummm, abriu o arquivo curioso para saber como implementei? Tudo certo! ;) 
+As imagens foram feitas com HTML mesmo, já listas fica mais prático com o markdown.
+Utilizei uma âncora sem referência nas imagens para tornar "não-clicáveis", afinal, é só um elemento para visualizaç
+-->
 
 <div align="center">
-<img align="center" src="https://github.com/mblithium/mblithium/blob/main/img/banner.png?raw=true" width="100%" alt="Banner de perfil. By Digital Ocean.">
+<a href="#"><img align="center" src="https://github.com/mblithium/mblithium/blob/main/img/banner.png?raw=true" width="100%" alt="Banner de perfil. By Digital Ocean."></a>
 </div>
 <hr>
 
@@ -34,6 +38,6 @@ Bem-vindo ao meu perfil do Github!
 
 <details>
 <summary><h3>Open Stats</h3></summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mblithium&theme=dracula&show_icons=true&layout=compact" style="width: 100%; height: 200px;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=mblithium&theme=dracula&show_icons=true&layout=compact" style="width: 100%; height: 200px;"/>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mblithium&theme=dracula&show_icons=true&layout=compact" style="width: 100%; height: 200px;"/></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mblithium&theme=dracula&show_icons=true&layout=compact" style="width: 100%; height: 200px;"/></a>
 </details>
