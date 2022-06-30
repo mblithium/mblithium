@@ -7,7 +7,7 @@ Bem-vindo ao meu perfil do Github!
 <!-- 
 Huummm, abriu o arquivo curioso para saber como implementei? Tudo certo! ;) 
 As imagens foram feitas com HTML mesmo, já listas fica mais prático com o markdown.
-Utilizei uma âncora sem referência nas imagens para tornar "não-clicáveis", afinal, é só um elemento para visualizaç
+Utilizei uma âncora sem referência nas imagens para tornar "não-clicáveis" (ou quase), afinal, é só um elemento para visualização e não quero que sem querer alguém clique e abra a imagem, acredite, isso é bem chato e já fiz v.
 -->
 
 <div align="center">
