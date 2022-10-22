@@ -17,7 +17,7 @@ Utilizei uma âncora sem referência nas imagens para tornar "não-clicáveis" (
 
 - 🧑‍🔬 Por curiosidade, estou testando e aprendendo HTML, CSS, JAVASCRIPT, PYTHON, NODEJS e várias outras tecnologias.
 - ✏️ Focando atualmente em front end, com tecnologias como HTML5, CSS3, JavaScript, React JS entre outras relacionadas.
-- 👤 Participando da comunidade Formação Aztec, Universidade Brasileira Livre (UBL) e He4art Developers.
+- 👤 Participando da comunidade Formação Aztec, Universidade Brasileira Livre (UBL) e He4rt Developers.
 - 🐧 Amo testar novas tecnologias open source!
 
 
