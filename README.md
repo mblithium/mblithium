@@ -21,12 +21,11 @@ Por curiosidade, estou testando e aprendendo HTML, CSS, JAVASCRIPT, PYTHON, NODE
 
 Tenho um site no neocities, caso tenha curiosidade, onde inicialmente era para testar o desenvolvimento de um projeto React em hospedagem estática, mas estou usando para hospedar alguns artigos que crio também e como uma "página pessoal" com coisas que considero interessantes.
 
+<div>
 <a href="https://mblithium.neocities.org/">
-  <figure style="text-align: center;">
-    <img src="./img/mblithium-banner-small.png">
-    <figcaption>Acesse aqui!</figcaption>
-  </figure>
+    <img src="./img/mblithium-banner-small.png" title="Acesse aqui o meu site">
 </a>
+</div>
 
 
 ### Network
