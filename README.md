@@ -15,8 +15,6 @@ Utilizei uma âncora sem referência nas imagens para tornar "não-clicáveis" (
 </div>
 <hr>
 
-Por curiosidade, estou testando e aprendendo HTML, CSS, JAVASCRIPT, PYTHON, NODEJS e várias outras tecnologias.Focando atualmente em front end, com tecnologias como HTML5, CSS3, JavaScript, React JS entre outras relacionadas. Participando da comunidade Formação Aztec, Universidade Brasileira Livre (UBL) e He4rt Developers. Amo testar novas tecnologias open source!
-
 ### Confira meu site!
 
 Tenho um site no neocities, caso tenha curiosidade, onde inicialmente era para testar o desenvolvimento de um projeto React em hospedagem estática, mas estou usando para hospedar alguns artigos que crio também e como uma "página pessoal" com coisas que considero interessantes.
